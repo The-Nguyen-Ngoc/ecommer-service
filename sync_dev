@@ -1,0 +1,1 @@
+rsync -av --progress --delete --rsh='ssh' target/ root@34.101.129.73:/opt/dev/
